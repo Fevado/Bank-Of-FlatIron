@@ -1,0 +1,29 @@
+  label{
+    width: 140px;
+    display: inline-block;
+    margin-left: 20px;
+  }
+  #btn{
+    display: block;
+    margin: auto;
+    margin-left: 10px;
+   
+  }
+  form{
+    align-items: center;
+    display: inline-block;    
+  }
+  #home {
+    font-size: 3.em;
+    line-height: 1.1;
+    text-align: center;
+    margin: 20px;
+    margin-left: 500px;
+    margin-top: -300px;
+  }
+  #search{
+    width: 140px;
+    display: inline-block;
+    margin-left: 20px;
+  }
+  
