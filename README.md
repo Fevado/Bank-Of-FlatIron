@@ -44,7 +44,9 @@ The new transaction will appear in the table.
 Filtering Transactions:
 Use the search bar to filter transactions by description. Only transactions containing the search term will be displayed.
 
-Project Structuretransactions-app/
+##Project Structure
+
+Bank-OF-FLATIRON/
 │
 ├── public/
 │   ├
